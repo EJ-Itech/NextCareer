@@ -26,7 +26,7 @@ This Job Portal is a high-performance web application designed to bridge the gap
     - **Application Management:** Centralized dashboard to view all users who applied to specific job posts.
 
 - **Real-time & Communication**
-    - **Laravel Reverb:** Powering instant, low-latency WebSocket communication.
+    - **Laravel Reverb:** Handles real-time WebSocket communication.
     - **Real-time Chat:** Seamless messaging between freelancers and employers.
     - **Live Notifications:** Instant alerts for application updates, new messages, and project interactions.
 
@@ -36,4 +36,4 @@ This Job Portal is a high-performance web application designed to bridge the gap
 - **Backend**: Laravel
 - **Real-time Engine**: Laravel Reverb (WebSockets)
 - **Database**: MySQL
-- **Styling**: Tailwind CSS (or Bootstrap)
+- **Styling**: Tailwind CSS
