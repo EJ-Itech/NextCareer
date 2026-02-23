@@ -1,0 +1,4 @@
+unlink the storage
+command: rm -rf public/storage
+relink the storage
+php artisan storage:link

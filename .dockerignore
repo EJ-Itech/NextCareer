@@ -1,0 +1,16 @@
+node_modules
+vendor
+.git
+storage
+public/build
+dist
+build
+.env
+npm-debug.log*
+node_modules
+vendor
+storage/logs
+.env
+.git
+public/storage
+

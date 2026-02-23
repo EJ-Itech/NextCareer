@@ -1,0 +1,46 @@
+2025-11-07 22:17:53,691 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-11-07 22:17:53,714 INFO supervisord started with pid 1
+2025-11-07 22:17:54,737 INFO spawned: 'php-fpm' with pid 20
+2025-11-07 22:17:54,755 INFO spawned: 'reverb' with pid 21
+2025-11-07 22:17:55,776 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-11-07 22:17:55,781 INFO success: reverb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-11-07 22:31:31,046 WARN received SIGQUIT indicating exit request
+2025-11-07 22:31:31,049 INFO waiting for php-fpm, reverb to die
+2025-11-07 22:31:31,098 INFO stopped: reverb (exit status 0)
+2025-11-07 22:31:31,132 INFO stopped: php-fpm (exit status 0)
+2025-11-07 22:31:57,919 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-11-07 22:31:57,924 INFO supervisord started with pid 1
+2025-11-07 22:31:58,930 INFO spawned: 'php-fpm' with pid 23
+2025-11-07 22:31:58,938 INFO spawned: 'reverb' with pid 24
+2025-11-07 22:32:00,468 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-11-07 22:32:00,469 INFO success: reverb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-11-07 22:43:57,590 WARN received SIGQUIT indicating exit request
+2025-11-07 22:43:57,592 INFO waiting for php-fpm, reverb to die
+2025-11-07 22:43:57,616 INFO stopped: reverb (exit status 0)
+2025-11-07 22:43:57,640 INFO stopped: php-fpm (exit status 0)
+2025-11-07 22:44:25,869 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-11-07 22:44:25,875 INFO supervisord started with pid 1
+2025-11-07 22:44:26,882 INFO spawned: 'php-fpm' with pid 25
+2025-11-07 22:44:26,889 INFO spawned: 'reverb' with pid 26
+2025-11-07 22:44:28,308 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-11-07 22:44:28,309 INFO success: reverb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-11-07 22:46:59,631 WARN received SIGQUIT indicating exit request
+2025-11-07 22:46:59,632 INFO waiting for php-fpm, reverb to die
+2025-11-07 22:46:59,648 INFO stopped: reverb (exit status 0)
+2025-11-07 22:46:59,673 INFO stopped: php-fpm (exit status 0)
+2025-11-07 22:59:39,564 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-11-07 22:59:39,570 INFO supervisord started with pid 1
+2025-11-07 22:59:40,578 INFO spawned: 'php-fpm' with pid 19
+2025-11-07 22:59:40,584 INFO spawned: 'reverb' with pid 20
+2025-11-07 22:59:42,046 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-11-07 22:59:42,046 INFO success: reverb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-02-23 04:36:59,218 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2026-02-23 04:36:59,235 INFO supervisord started with pid 1
+2026-02-23 04:37:00,251 INFO spawned: 'php-fpm' with pid 23
+2026-02-23 04:37:00,266 INFO spawned: 'reverb' with pid 24
+2026-02-23 04:37:01,507 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-02-23 04:37:01,508 INFO success: reverb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-02-23 04:56:40,524 WARN received SIGQUIT indicating exit request
+2026-02-23 04:56:40,530 INFO waiting for php-fpm, reverb to die
+2026-02-23 04:56:40,557 INFO stopped: reverb (exit status 0)
+2026-02-23 04:56:40,574 INFO stopped: php-fpm (exit status 0)
