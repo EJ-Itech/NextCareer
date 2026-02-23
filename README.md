@@ -32,8 +32,7 @@ This Job Portal is a high-performance web application designed to bridge the gap
 
 ## Tech Stack 📌
 
-- **Frontend**: Vue.js, Inertia.js
+- **Frontend**: Vue.js, Inertia.js ,Tailwind CSS
 - **Backend**: Laravel
 - **Real-time Engine**: Laravel Reverb (WebSockets)
-- **Database**: MySQL
-- **Styling**: Tailwind CSS
+- **Database**: PostgreSQL
